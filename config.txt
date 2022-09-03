@@ -8,7 +8,7 @@
 
 # 公众号appSecret
 
-"app_secret": "56b834bab6c94537938411126fa8ecbf",
+"app_secret":"56b834bab6c94537938411126fa8ecbf",
 
 # 模板消息id
 
