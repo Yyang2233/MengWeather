@@ -16,7 +16,7 @@
 
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 
-"user": ["omzUI6Fsr-ZaoS5IrXpei48K1wYM"],
+"user": ["omzUI6Fsr-ZaoS5IrXpei48K1wYM","omzUI6EQg_jBzGiAhwGaRiZSBbu0"],
 
 # 信息配置
 
